@@ -1,0 +1,6 @@
+id	Libellé	Quantité	PU	PrixTotal
+8	Oeuf	20		100	2000	
+9	Sel	15		100	1500	
+4	Huile	5		800	4000	
+
+TOTAL : 				7500

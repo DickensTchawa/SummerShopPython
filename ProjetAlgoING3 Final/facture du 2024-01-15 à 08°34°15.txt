@@ -1,0 +1,5 @@
+id	Libellé	Quantité	PU	PrixTotal
+1	Sucre	10		1000	10000	
+2	Jus	5		500	2500	
+
+TOTAL : 				12500
