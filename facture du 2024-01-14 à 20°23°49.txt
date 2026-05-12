@@ -1,0 +1,4 @@
+id	Libellé	Quantité	PU	PrixTotal
+0	Savon	5		500	2500	
+
+TOTAL : 				2500

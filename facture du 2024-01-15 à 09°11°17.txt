@@ -1,0 +1,5 @@
+id	Libellé	Quantité	PU	PrixTotal
+0	Savon	10		500	5000	
+1	Sucre	5		1000	5000	
+
+TOTAL : 				10000
